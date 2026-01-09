@@ -25,11 +25,12 @@
 **Описание:** Многостраничный новостной сайт с системой категорий, главной страницей и динамической маршрутизацией. Проект следует best practices организации Django-проектов.
 
 ## 📈 Статистика и активность
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Codename-Nik&theme=dark)](https://github.com/Codename-Nik)
-[![Codename-Nik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codename-Nik&layout=compact&theme=vision-friendly-dark)](https://github.com/Codename-Nik)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Codename-Nik&theme=dark)](https://git.io/streak-stats)
+[![Codename-Nik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codename-Nik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Контакты и ссылки
-*   **Резюме:** [[(https://hh.ru/resume/10e0c65cff0f5329ea0039ed1f73334877644e)]
+*   **Резюме:** [https://hh.ru/resume/10e0c65cff0f5329ea0039ed1f73334877644e](https://hh.ru/resume/10e0c65cff0f5329ea0039ed1f73334877644e)
 *   **Email:** nik-pokhodnya@yandex.ru
 
 ---
